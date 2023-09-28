@@ -1,6 +1,6 @@
 let sum = 0;
-let arr = [1, 2, 3, 4, 5];
-for (let i=1; i<arr.length; i++) { // classic loop
-  sum += arr[i];
+let arr = [1, 2, 3, 4, 5]; // create array
+for (let i=1; i<arr.length; i++) { // loop
+  sum += arr[i]; 
 }
 alert( sum );
