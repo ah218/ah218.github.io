@@ -1,0 +1,7 @@
+<student>
+  <firstName>Anhad</firstName>
+  <studentNo>123</studentNo>
+</student>
+<!-- example of creating an instance of the class student with the object Anhad -->
+
+
